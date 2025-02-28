@@ -79,4 +79,5 @@
 
   ![Вывод ](https://github.com/user-attachments/assets/32f31941-c02b-42ad-a8b8-f3655378c908)
   
-  
+  ![Вывод 2](https://github.com/user-attachments/assets/2ad88612-d373-4ae5-bfa6-e59e932abfaf)
+
