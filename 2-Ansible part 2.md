@@ -13,6 +13,7 @@
     * плейбук:
   ![1](https://github.com/user-attachments/assets/769ce1bd-e50f-4999-8815-286b50682d55)
 
+  ![2](https://github.com/user-attachments/assets/e5c02cda-45b1-4fca-8e4a-d1ba7c516730)
 
 
     * вывод:
