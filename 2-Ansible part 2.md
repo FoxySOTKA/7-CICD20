@@ -76,3 +76,7 @@
   ![Плейбук (3)](https://github.com/user-attachments/assets/85e9e6b4-b0d6-41d4-8482-7d675868441c)
 
 * выводы:
+
+  ![Вывод ](https://github.com/user-attachments/assets/32f31941-c02b-42ad-a8b8-f3655378c908)
+  
+  
