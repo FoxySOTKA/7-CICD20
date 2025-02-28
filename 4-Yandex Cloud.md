@@ -117,6 +117,24 @@ output "external_ip_address_vm_1" {
 
 Провести тестирование. 
 
+#### Скриншоты выполнения работы:
+
+* Ансибл плейбук:
+
+* Ключ:
+
+* Плейбук yaml:
+
+* Развернутый веб ресурс:
+
+* Terraform apply:
+
+* Файл main.tf с настройками провайдера:
+  ![Файл main tf с настройками провайдера](https://github.com/user-attachments/assets/fa25c7ef-80f6-404e-b145-9771c5b0cdd0)
+
+* Хосты:
+
+
 ---
 
 ## Дополнительные задания* (со звёздочкой)
@@ -142,12 +160,5 @@ output "external_ip_address_vm_1" {
 3. Выполните команду export YC_TOKEN=$(yc iam create-token) и в том же shell запустите terraform.
 4. Для того чтобы вам не нужно было каждый раз выполнять export - добавьте данную команду в самый конец файла ~/.bashrc
 
----
 
-Дополнительные материалы: 
-
-1. [Nginx. Руководство для начинающих](https://nginx.org/ru/docs/beginners_guide.html). 
-2. [Руководство по Terraform](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/doc). 
-3. [Ansible User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html).
-1. [Terraform Documentation](https://www.terraform.io/docs/index.html).
 
