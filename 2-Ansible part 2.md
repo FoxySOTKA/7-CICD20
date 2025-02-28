@@ -56,7 +56,7 @@
 
 * вывод:
 
-  ![Вывод (3)](https://github.com/user-attachments/assets/1bb78bbe-4d40-4126-a086-ffa59b30baaa)
+ ![Вывод (3)](https://github.com/user-attachments/assets/e21da172-2cc8-4488-b1fb-19aaa71e1ad5)
 
 
 ### Задание 3
