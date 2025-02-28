@@ -16,7 +16,8 @@
   ![2](https://github.com/user-attachments/assets/e5c02cda-45b1-4fca-8e4a-d1ba7c516730)
 
 
-    * вывод:
+   * вывод:
+![Вывод](https://github.com/user-attachments/assets/d97b1106-7c4f-4adf-a8c3-1891fa81c10c)
 
 
 2. Установить пакет tuned из стандартного репозитория вашей ОС. Запустить его, как демон — конфигурационный файл systemd появится автоматически при установке. Добавить tuned в автозагрузку.
