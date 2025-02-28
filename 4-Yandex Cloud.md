@@ -138,6 +138,9 @@ output "external_ip_address_vm_1" {
 
 * Terraform apply:
 
+  ![Тerraform apply png](https://github.com/user-attachments/assets/9b01dcec-ceaa-41dc-b527-0a7a895dcdec)
+
+
 * Файл main.tf с настройками провайдера:
   
   ![Файл main tf с настройками провайдера](https://github.com/user-attachments/assets/fa25c7ef-80f6-404e-b145-9771c5b0cdd0)
