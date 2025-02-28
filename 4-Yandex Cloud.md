@@ -120,6 +120,7 @@ output "external_ip_address_vm_1" {
 #### Скриншоты выполнения работы:
 
 * Ансибл плейбук:
+  ![Ансибл плейбук png](https://github.com/user-attachments/assets/75770933-9c5a-44d7-87c1-ea02af69636a)
 
 * Ключ:
 
