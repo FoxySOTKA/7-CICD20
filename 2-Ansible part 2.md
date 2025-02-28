@@ -43,6 +43,7 @@
 
  * вывод:
  
+   ![Вывод (2)](https://github.com/user-attachments/assets/e692e297-e19d-4c44-996e-e2aa630a6a87)
 
 
 ### Задание 2
