@@ -67,4 +67,6 @@
  ![2 (1)](https://github.com/user-attachments/assets/56a14090-5aeb-4896-9571-2ff15a6a2623)
 
 3. Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
+
+ ![3 (1)](https://github.com/user-attachments/assets/fbe9a92b-2439-4b36-8076-8237299a6d5b)
  
