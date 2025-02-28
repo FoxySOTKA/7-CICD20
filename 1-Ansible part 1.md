@@ -37,6 +37,7 @@
    
 4. Проверьте доступность хостов с помощью модуля ping.
 
+![4](https://github.com/user-attachments/assets/d4b533ae-a26d-44d9-a553-a55c9532385b)
 
  
 ---
