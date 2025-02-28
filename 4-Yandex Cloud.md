@@ -147,6 +147,7 @@ output "external_ip_address_vm_1" {
 
 * Хосты:
 
+  ![Хосты png](https://github.com/user-attachments/assets/4c236ce4-2b56-43b3-9e62-4eae2c2f56c1)
 
 ---
 
