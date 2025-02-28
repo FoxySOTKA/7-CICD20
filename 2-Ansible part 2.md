@@ -56,6 +56,9 @@
 
 * вывод:
 
+  ![Вывод (3)](https://github.com/user-attachments/assets/1bb78bbe-4d40-4126-a086-ffa59b30baaa)
+
+
 ### Задание 3
 
 Ознакомьтесь со статьёй [«Ansible - это вам не bash»](https://habr.com/ru/post/494738/), сделайте соответствующие выводы и не используйте модули **shell** или **command** при выполнении задания.
