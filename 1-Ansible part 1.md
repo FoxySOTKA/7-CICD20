@@ -32,6 +32,7 @@
    
 3. Создайте файл inventory с созданными вами ВМ.
 
+![3](https://github.com/user-attachments/assets/e593aab5-a292-4684-b4fe-f66a01fabee9)
 
    
 4. Проверьте доступность хостов с помощью модуля ping.
