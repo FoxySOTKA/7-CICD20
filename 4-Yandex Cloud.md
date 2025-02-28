@@ -123,6 +123,7 @@ output "external_ip_address_vm_1" {
   ![Ансибл плейбук png](https://github.com/user-attachments/assets/75770933-9c5a-44d7-87c1-ea02af69636a)
 
 * Ключ:
+  ![Ключ png](https://github.com/user-attachments/assets/a2b1c717-e63c-437d-8000-2720cd1ec131)
 
 * Плейбук yaml:
 
