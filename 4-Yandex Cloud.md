@@ -120,18 +120,23 @@ output "external_ip_address_vm_1" {
 #### Скриншоты выполнения работы:
 
 * Ансибл плейбук:
+  
   ![Ансибл плейбук png](https://github.com/user-attachments/assets/75770933-9c5a-44d7-87c1-ea02af69636a)
 
 * Ключ:
+  
   ![Ключ png](https://github.com/user-attachments/assets/a2b1c717-e63c-437d-8000-2720cd1ec131)
 
 * Плейбук yaml:
+  
+  ![Плейбук yml png](https://github.com/user-attachments/assets/6db34bf3-ad46-419c-9750-98bf6fa710d7)
 
 * Развернутый веб ресурс:
 
 * Terraform apply:
 
 * Файл main.tf с настройками провайдера:
+  
   ![Файл main tf с настройками провайдера](https://github.com/user-attachments/assets/fa25c7ef-80f6-404e-b145-9771c5b0cdd0)
 
 * Хосты:
