@@ -133,6 +133,9 @@ output "external_ip_address_vm_1" {
 
 * Развернутый веб ресурс:
 
+  ![Развернутый веб ресурс](https://github.com/user-attachments/assets/570a4970-3bb0-423f-a640-127681d53583)
+
+
 * Terraform apply:
 
 * Файл main.tf с настройками провайдера:
