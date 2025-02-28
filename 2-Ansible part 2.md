@@ -26,16 +26,19 @@
 
  * плейбук:
    
-  ![Плейбук](https://github.com/user-attachments/assets/709bd1b4-ddb3-40f1-93d4-8f26e2699e8f)
+   ![Плейбук](https://github.com/user-attachments/assets/709bd1b4-ddb3-40f1-93d4-8f26e2699e8f)
 
 
  * вывод:
 
-  ![Вывод (1)](https://github.com/user-attachments/assets/44e61f70-7a60-495c-8d3a-6f865993420a)
+   ![Вывод (1)](https://github.com/user-attachments/assets/44e61f70-7a60-495c-8d3a-6f865993420a)
+   
 
 3. Изменить приветствие системы (motd) при входе на любое другое. Пожалуйста, в этом задании используйте переменную для задания приветствия. Переменную можно задавать любым удобным способом.
 
  * плейбук:
+
+   ![Плейбук (1)](https://github.com/user-attachments/assets/fdad1eeb-2f24-41a2-9e93-310dbcf1d20a)
 
 
  * вывод:
